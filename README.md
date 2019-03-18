@@ -11,8 +11,8 @@ There was a time, where everybody used URL shorteners like `bit.ly`, `TinyURL`, 
 A basic URL shortener contains the following components:
 
 * Storage for mapping between `short` and `full` URL
-* API to create new `short` URL for a `full` one
-* API to access the `full` URL by providing the `short` url
+* API to create new `short` URL for a `full` URL
+* API to access the `full` URL by providing the `short` URL
 
 ## Implementations
 
