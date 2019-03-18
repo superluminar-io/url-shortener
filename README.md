@@ -16,8 +16,7 @@ A basic URL shortener contains the following components:
 
 ## Implementations
 
-* `aws-api-gateway-lambda-dynamodb-go` \
-  Amazon API Gateway, AWS Lambda, Amazon DynamoDB, and Go source code.
+* [**`aws-api-gateway-lambda-dynamodb-go`**](src/aws-api-gateway-lambda-dynamodb-go) - AWS, API Gateway, DynamoDB, Lambda w/ Go
 
 ## License
 
